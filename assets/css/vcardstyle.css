@@ -34,6 +34,10 @@ html {
 	margin-bottom: -99px;
 }
 
+#home{
+	height: 85%;
+}
+
 .vcard-wrapper {
 	border-radius: 10px;
 	width: 25%;
@@ -1526,6 +1530,8 @@ html {
 	.btns {
 		bottom: 15% !important;
 	}
+
+	#home{height: 75% !important;}
 
 	.vcard-wrapper {
 		width: 96%;
