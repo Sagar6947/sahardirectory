@@ -8,7 +8,7 @@
 				<div class="col-xl-11 col-lg-12 col-md-12 col-sm-12 col-12">
 
 					<div class="banner_caption text-center mb-5">
-						<h1 class="banner_title ft-bold mb-1">Digital Impression,</br>
+						<h1 class="banner_title ft-bold mb-1">Digital Impression, by sagar</br>
 							The First Impression</h1>
 						<p class="fs-md ft-medium">Sahar Directory Helps You To Get A Digital Impression Via Generating Your Digital Visiting Card</br> With Your Website Here That Is Smart & Elegant.</p>
 					</div>
