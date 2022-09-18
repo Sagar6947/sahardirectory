@@ -21,6 +21,7 @@
 	<!-- Custom Chart JavaScript -->
 	<script src="<?= base_url() ?>assets/js/plugins/dashboard-2.js"></script>
 
+
 	<script>
 		window.setTimeout(function() {
 			$(".alert").fadeTo(200, 0).slideUp(200, function() {
